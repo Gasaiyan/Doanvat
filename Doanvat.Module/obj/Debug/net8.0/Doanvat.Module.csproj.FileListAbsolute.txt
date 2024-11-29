@@ -1,0 +1,12 @@
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.csproj.AssemblyReference.cache
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.AssemblyInfoInputs.cache
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.AssemblyInfo.cs
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.csproj.CoreCompileInputs.cache
+D:\C#\Doanvat\Doanvat\Doanvat.Module\bin\Debug\net8.0\Doanvat.Module.deps.json
+D:\C#\Doanvat\Doanvat\Doanvat.Module\bin\Debug\net8.0\Doanvat.Module.dll
+D:\C#\Doanvat\Doanvat\Doanvat.Module\bin\Debug\net8.0\Doanvat.Module.pdb
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.dll
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\refint\Doanvat.Module.dll
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\Doanvat.Module.pdb
+D:\C#\Doanvat\Doanvat\Doanvat.Module\obj\Debug\net8.0\ref\Doanvat.Module.dll
